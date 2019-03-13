@@ -1,0 +1,21 @@
+app and alarm confirmation not wrking, button onclick only works once? 
+
+
+
+TO DO:
+*MAKE AN ALARM with a snooze and end button
+*MAKE A TIMER
+*MAKE A STOP WATCH
+*CREATE AN INPUT FOR MESSAGE OR LABEL FROM USER ATTACHED TO THE ALARMS 
+
+
+*MAKE A LOGIN
+
+*REMEMBER THE TIMES
+
+
+
+
+TO OPTIMISE:
+*MAKE A concertHourAndMinute OBJECT/METHOD---- made it a function for now
+*make the code pretty, (spacing)
